@@ -6,9 +6,9 @@
 
 <!-- El nombre debe ser el mismo que en la directiva de app.blade.php -->
 @section('titulo') 
-    Página principal
+    Alumnos
 @endsection
 
 @section('contenido')
-    Bienvenidos todos, esta es la sección de contenido.
+    Contenido de la página de alumnos.
 @endsection
