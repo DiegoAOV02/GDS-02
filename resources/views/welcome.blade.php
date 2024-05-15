@@ -1,6 +1,8 @@
 <!-- Uso de directivas. -->
 <!-- Invoca el archivo patrón del diseño (layout) -->
-@extends('layouts.app') <!--Extends siempre apunta a rutas. -->
+
+ <!--Extends siempre apunta a rutas. -->
+@extends('layouts.app')
 
 <!-- Crear el contenido del titulo para que sea insertado en la estructura app -->
 
