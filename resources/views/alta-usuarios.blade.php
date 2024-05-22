@@ -1,7 +1,7 @@
 <x-app-layout>
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Tienes el permiso para dar de alta a un nuevo usuario.') }}
+            {{ __('Tiene el permiso para dar de alta a un nuevo usuario.') }}
         </h2>
                 <!-- Template de tabla extraida de Tailwind-->
     <form class="max-w-md mx-auto">

@@ -3,8 +3,9 @@
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
+// Ruta principal para iniciar sesión.
 Route::get('/', function () {
-    return view('welcome');
+    return view('auth.login');
 });
 
 // middleware es para autenticar la entrada a las vistas
