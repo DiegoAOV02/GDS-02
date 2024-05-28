@@ -3,7 +3,7 @@
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
-// Ruta principal para iniciar sesión.
+// Ruta principal de la página
 Route::get('/', function () {
     return view('auth.login');
 });
